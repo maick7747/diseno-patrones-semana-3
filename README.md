@@ -1,6 +1,6 @@
-# Diseño de Patrones - Semana 3 y 4
+# Diseño de Patrones - Ejercicios
 
-Práctica de las semanas 3 y 4 del curso **Diseño de Patrones (45313)**.
+Ejercicios del curso **Diseño de Patrones (45313)**.
 
 ## Integrantes
 
@@ -9,6 +9,11 @@ Práctica de las semanas 3 y 4 del curso **Diseño de Patrones (45313)**.
 - **Yordan CHIRA CHANCAS** - U23265626
 
 ## Contenido
+
+### Semana 2 (Estrategia y SRP)
+
+- `Pratica_1/` - Ejercicios de la práctica 1 (Strategy - cálculo de envío).
+- `Pratica_2/` - Ejercicios de la práctica 2 (preguntas + código Java de vehículos).
 
 ### Semana 3 (SOLID - ISP y DIP)
 
