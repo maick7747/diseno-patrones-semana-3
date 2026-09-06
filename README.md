@@ -1,6 +1,6 @@
-# Diseño de Patrones - Semana 3
+# Diseño de Patrones - Semana 3 y 4
 
-Práctica de la semana 3 del curso **Diseño de Patrones (45313)**.
+Práctica de las semanas 3 y 4 del curso **Diseño de Patrones (45313)**.
 
 ## Integrantes
 
@@ -10,5 +10,18 @@ Práctica de la semana 3 del curso **Diseño de Patrones (45313)**.
 
 ## Contenido
 
-- `Pratica_1/` - Ejercicios 4-6, 7-10, preguntas 1-3 y ejemplo de patrones (docx y pdf).
-- `Pratica_2/` - Práctica SOLID ISP/DIP y sesión de laboratorio (pdf).
+### Semana 3 (SOLID - ISP y DIP)
+
+- `Ejercicios_4_6.docx` - Ejercicios 4-6.
+- `Ejercicio 7-10.docx` - Ejercicios 7-10.
+- `Pregunta 1-3.docx` - Preguntas 1-3.
+- `Ejemplo_Patrones3.pdf` - Ejemplo de patrones.
+- `Practica_SOLID_ISP_DIP.pdf` - Práctica SOLID ISP/DIP.
+- `Practica_SOLID_ISP_DIP - copia.pdf` - Copia de la práctica.
+- `Sesion_Laboratorio_DIP_ISP_Diseno_Patrones_UTP.pdf` - Sesión de laboratorio.
+
+### Semana 4 (Introducción a los Patrones)
+
+- `Ejercicio01.zip` - Ejercicio 1.
+- `Ejercicio02.zip` - Ejercicio 2.
+- `Ejercicio3-4.zip` - Ejercicios 3-4.
